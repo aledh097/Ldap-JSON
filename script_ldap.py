@@ -19,7 +19,7 @@ print "-------------------------------------------------------------------------
 # Conexion con el directorio LDAP
 
 password = getpass.getpass("Password of the administrator of the directory LDAP: ")
-conexion_ldap = ldap.initialize("ldap://localhost:389/")
+conexion_ldap = ldap.initialize("ldap://172.22.200.116:389/")
 conexion_ldap.simple_bind_s("cn=admin,dc=apalominogarcia,dc=gonzalonazareno,dc=org",password)
 
 uidNumber = 2000
