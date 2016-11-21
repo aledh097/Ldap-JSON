@@ -28,8 +28,8 @@ contador = 0
 
 # Lectura del fichero JSON
 
-alumnos_2ASIR = open("alumnos.json")
-datos = json.load(alumnos_2ASIR)
+fichero_json = open("alumnos.json")
+datos = json.load(fichero_json)
 
 # Creamos un diccionario para introducir en el directorio LDAP
 
@@ -50,6 +50,15 @@ for i in datos["personas"]:
 	uidNumber = uidNumber + 1
 	contador = contador + 1
 
+for i in datos["computers"]:
+	dn="ou=computers,dc=apalominogarcia,dc=gonzalonazareno,dc=org"
+	dic1 = {}
+	dic1['objectclass'] = ['top','organizationalUnit','ldapPublicKey']
+	dic1['cn'] = str(i["hostname"])
+	dic1['ipHostNumber'] = str(i["ipv4"])
+	dic1['sshPublicKey'] = str(i["clave"])
+	ldif = modlist.addModlist(dic1)
+	conexion_ldap.add_s(dn,ldif)
 print "%s Usuarios insertados correctamente." % (contador)
 
 # Desconexion con el directorio LDAP
@@ -58,4 +67,5 @@ conexion_ldap.unbind_s()
 
 # Cerramos el fichero JSON
 
-alumnos_2ASIR.close()
+fichero_json.close()
+
