@@ -34,7 +34,7 @@ datos = json.load(fichero_json)
 # Creamos un diccionario para introducir en el directorio LDAP
 
 for i in datos["personas"]:
-	dn="uid=%s,dc=apalominogarcia,dc=gonzalonazareno,dc=org" % str(i["usuario"])
+	dn="uid=%s,ou=People,dc=apalominogarcia,dc=gonzalonazareno,dc=org" % str(i["usuario"])
 	dic = {}
 	dic['objectclass'] = ['top','posixAccount','inetOrgPerson','ldapPublicKey']
 	dic['uidNumber'] = str(uidNumber)
