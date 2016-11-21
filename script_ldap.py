@@ -25,6 +25,7 @@ conexion_ldap.simple_bind_s("cn=admin,dc=apalominogarcia,dc=gonzalonazareno,dc=o
 uidNumber = 2000
 gidNumber = 2000
 contador = 0
+contador2 = 0
 
 # Lectura del fichero JSON
 
@@ -51,15 +52,18 @@ for i in datos["personas"]:
 	contador = contador + 1
 
 for i in datos["computers"]:
-	dn="ou=computers,dc=apalominogarcia,dc=gonzalonazareno,dc=org"
+	dn="uid=%s,ou=Computers,dc=apalominogarcia,dc=gonzalonazareno,dc=org" % str(i["ipv4"])
 	dic1 = {}
-	dic1['objectclass'] = ['top','organizationalUnit','ldapPublicKey']
+	dic1['objectclass'] = ['top','device','ldapPublicKey','ipHost']
 	dic1['cn'] = str(i["hostname"])
 	dic1['ipHostNumber'] = str(i["ipv4"])
 	dic1['sshPublicKey'] = str(i["clave"])
 	ldif = modlist.addModlist(dic1)
 	conexion_ldap.add_s(dn,ldif)
-print "%s Usuarios insertados correctamente." % (contador)
+	contador2 = contador2 + 1
+
+print "%s usuarios insertados correctamente." % (contador)
+print "%s ordenadores insertados correctamente." % (contador2)
 
 # Desconexion con el directorio LDAP
 
