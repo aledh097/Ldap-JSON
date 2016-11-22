@@ -1,0 +1,22 @@
+dn: ou=People,dc=apalominogarcia,dc=gonzalonazareno,dc=org
+ou: People
+objectClass: top
+objectClass: organizationalUnit
+
+
+dn: ou=Group,dc=apalominogarcia,dc=gonzalonazareno,dc=org
+ou: Group
+objectClass: top
+objectClass: organizationalUnit
+
+
+dn: cn=ASIR2,ou=Group,dc=apalominogarcia,dc=gonzalonazareno,dc=org
+objectClass: posixGroup
+objectClass: top
+cn: ASIR2
+gidNumber: 2000
+
+dn: ou=Computers,dc=apalominogarcia,dc=gonzalonazareno,dc=org
+objectClass: top
+objectClass: organizationalUnit
+

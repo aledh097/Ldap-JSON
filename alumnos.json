@@ -1,0 +1,205 @@
+{
+    "personas" : [
+
+        {
+            "nombre" : "Francisco Jesús",
+            "apellidos" : "Moncayo Hidalgo",
+            "correo" : "fjm.hidalgo@gmail.com",
+            "usuario" : "fran.moncayo",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCftUTpBA2z8ktuKrW2YtL+1M/QP9Qc8e+2YXahpyES7xQEbmEDdTGtkwaf+zZnFFaP+TupHuI5DDwnXGSoRDSvsm9i+GJhibY+4FaWfF9fa6hJJ+9B/0elVm679sNUtJpO38TTy3a2MAKTeDCMADAshScNzAdS1l3WDn4ZEl3bhMvgmmu7clASMYBWRi+J1dL+mCxYcR+3EtNIyY6OcwUb6wb6yCc2w5i16t7dZ3kvK6M7lahjc8PPOTf3BOlwktEBayQ0Z7aBz7q5v8Djf7fAPLB01OcSB8164JCBIIlBiYgUuYLAk+0bUKyMOGNciqJgAL9Cq4f6dwrXG5Qur2ln fjhidalgo@administrador" 
+        },
+        {
+            "nombre" : "Alejandro",
+            "apellidos" : "Valencia Valles",
+            "correo" : "valencia1904@gmail.com",
+            "usuario" : "alejandro.valencia",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDL5Q01kqmpGmNYWrzmDQp1AopYWHG/7DbdJZ6W0qgiigVCo3UhjrNbgdcXAEZoDaBzevtk7SXwvQpnB31RbsBHp2hZIgjkG4FJwHnqoNsZPxzoxNClcxmkx89lfnUc4NV1b22wST3Wu4HxokF2CV6hRSoqKRgZShjeTfAkIxDsiM3Pl8eOX2NjxQL35DxTuu6PzUx/JYisN6YvtQOmEJsjwj9foB21y+0+U6v31CTWflBkc/ZREY0vNLyKAUs4ulecX7+iGG+VRmr8IV106Nf9fQHc1vKGVVaA03WtM06FiNio66xlFxbnJ8KOTFuSrtA3bgvqhgfULO1u4WAVnxEn" 
+        },
+        {
+            "nombre" : "Antonio Manuel",
+            "apellidos" : "Gómez Varela",
+            "correo" : "antoniomgomezvarela@gmail.com",
+            "usuario" : "antonio.gomez",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQ6ERY5ECYnqjGiEN5QTTz+1d62ww3jrI27xEahqOoeRd0DtQQVK/mBzhaEi9ePu8Yb0K75CZ0oF63DdMi5l2i9uYx/GQONWTV9V3/4f9sDkB/oVbwKRVwHMaYowfd7ksr/77P213rsLFtyNEvZlegYfK6hQ9QiB1iifsObo4OThIIP9s5zY6639/n7nALe5p20ExUkfLOsI6WAMujuGtoUniMVkqzqS/RVtZhAwcCKTVwkOLBYbKqVNmEYKKZcRHaBPljeRZbFf6ZTFIbxNtytW8wXwj6Z60xfUyYtm4IYD7A2vfs5yHZhF7B32DTWvmo1anryQVU4cCo8DRFyW2v antonio@debian" 
+        },
+        {
+            "nombre" : "Álvaro",
+            "apellidos" : "Rodríguez Márquez",
+            "correo" : "alvarorodmar94@gmail.com",
+            "usuario" : "alvaro.rodriguez",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFiVCE6lIZ8IqnWklsl3QplGjwZ4SPEeOJFPuNu7vj+1euBvv4Z8iLw3JkO3YH5KRP1Vyk2nLI9bzSlANaOWdDeJQFHOSkI1u0tUoaiqIZT7xbJljbwBvQBdsrQJqBK/ES5JOM52jl8+LKWO7Q40V3aj653yKkKpyDJhSxsdCxZMD57U93jx9jLD1mwoElffllbSm8SqH1Q/KLh/3kZgPI00UmnnX9NPDfJ3Afdu3XM/fbho27+sEG1WIn2DxgMuIokxCApVwyglCvI4sLhJNNJd8u5D9MYHT07HFkbF1+xxTqUZhwMKeJ/Y3F8l8UMcw0VsUm4z+X45cYwpAHcUR1" 
+        },
+        {
+           "nombre" : "Aitor",
+           "apellidos" : "León Delgado",
+           "correo" : "ldaitor28@gmail.com",
+           "usuario" : "aitor.leon",
+           "clave": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJ2qtGR5IPqz/i+72RS+pFCDxb8ghBBuceKTSr7HKOLwrGWJiBeCKLoj7jkITRXbDGDONySppkar6olZLMN1ooQVWkoacliv8V9qFPONq1FKKfIY+//ecr/NYEv908DApivCJF6unAXhZ1BZTw9l94pvP7b79Z04c+GXEJ/fGnz7kEL9l+vnQa7ocr6gFj4xCPpoY/w3ocFrEOoEdhH3kom35aB71y6YWv9PBFWtr3yIRN0z8EuU5bNYyI1A0ltjL11U1PxStkrz+yNLvsjSG8amXYF5jg3vSvm25gaLgOzPc1GWdr/Qw9ouYaoKcyTBS/t3T2tIWsDUKExrXY6rJn usuario@debian" 
+        },
+        {
+           "nombre" : "Francisco Manuel",
+           "apellidos" : "Hidalgo Fernández",
+           "correo" : "franhidalgo86@hotmail.com",
+           "usuario" : "francisco.hidalgo",
+           "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0YY0fYa9CC2KMqN2lPbJD84Md28DipaQhDZLIWT1yZXZJpqmti0l/FLVVcEKupBx1ohcN4+SF08jF7bbQv7k5WKC9FzMQCqqluMRS6e9D92PKE1n+s1zLEMhrq93SUsyi8bMxEgXrEXachaH0eD7UZqonJKovDhIBiIfD4JD06Al2YVLQuXAKn6+jaYAZ3yyzRdpyaBrVcDvKQ7cHv7eSi38kguWIqrjhmMzutp3SwECiD4hyDkk3p4S768fLJgmuQScqWJgbPGOQAKKByQU8vlhMPWxQ+/Mb7tnxdgF6GllZ/MOX7U3e6SnrK21oq+hlP1XgYLmsYcmiCy2dh6cF franhidalgo@FranDebian" 
+        },
+        {
+           "nombre" : "Antonio",
+           "apellidos" : "Luna Márquez",
+           "correo" : "antonio__luna@outlook.es",
+           "usuario" : "antonio.luna",
+           "clave": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCynQUt1q6QPdn3xlzaqO54TZxbaJCTV98EASZQl3g2THizGSafBmErjgz0c4r+KxsR12cSW237yYpEfc/f4DowtBiEdyih8eWOP91wq4/oSfkUuTklCOvK6ehOebfSjqsx1MeKI8iqqB9pfsND2eLDcpqJqS0TFllnWzIOWhg7AcVzHbB+gMc2sWm5GbbEfusNsg2n0h9w3bxWJ/LH62NkJyJIUS48mNrHjHALO46sHXJStM6Tmthp5jZCL/h3FlKpb0CFyJ6Pfy/0ER25mOUXisBYhnUO0euZvIgW9GOIZdo5VcZE5dwTKoVboQEWUXHYFHiK4tCMN2X7MGiGB1EV antonio@Lenovo-G510" 
+        },
+        {
+            "nombre" : "Juan Luis",
+            "apellidos" : "Ramirez Vaquero",
+            "correo" : "jramirezvaquero@gmail.com",
+            "usuario" : "juanluis.ramirez",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCr6CTZ389Uutn28M1ixETi5GJW2p/ENtqNAWgKn4A++ASXux4DI5iaxj/a24Wh7gqWIue1wd4LMvpnVNNrPP3Pkue4lfEbAhHrEwWwxLKfexGiEEcXfv7AxNKCw5SQjeDf0lwSRPnSz6o2ver4sPuydkqva4Zo0myBI7iX9HmLnjTt4IBM1c4evcqesSnlEddwBpqAURep5VF6dPDMGsrGqm+y0M0JMP0bwhbGOlmUGhU1B6iaa0mbD4r8zu8t/S+xeSlaSb/OSYItIBk3WOi0IlS3sZn8EcaubiwyvugBKqaaIjW5TxvBlbpbQ99qa8slm2BkE2I11tr6moZ5h/4P juanlu@Juanlu-PC" 
+        },
+        {
+           "nombre" : "Evaristo",
+           "apellidos" : "García Zambrana",
+           "correo" : "evgarciaz@gmail.com",
+           "usuario" : "evaristo.garcia",
+           "clave": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMQBHN7f2EsKBmuW2TqYJXV/McgY5UVT0oZWKj6DTR1p9ncZ2zvpDM9nmXyOpa6DlLai1XAKOODTfrcRcwpuuUuMsZgUEAN29zT7L0/FWxuKi3WvF6H77SKh+O6KFg2Dj1WRsTdn8JQoVf2w2gMDq7ki0JzZG1eiHDBPAtzRtKMvuhX+LNSkmK+EBr0ujuM2AcJ9VeYyYHFVjV3CmmBYQSwndn4piB9MXWbRQjuBElqZIDkwXSRr4zCz+6z4IrWqwQuzikudEvvOxYgXujthF9mWc1+T47H0y2UXC0YeUe/UibZ45IocdA4HV/RfxPrY2NiGpJjsi1433HqczPwYjp nano@satellite" 
+        },
+        {
+           "nombre" : "Manuel",
+           "apellidos" : "Alcocer Jiménez",
+           "correo" : "m.alcocer1978@gmail.com",
+           "hostname" : "zhora",
+           "usuario" : "manuel.alcocer",
+           "clave": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCZB0i7jPc1WHEHGE1HUJkr3/utgG8DyvN7LtJ3sEMJabj70oTf/Nh3QiWO1JMFVAXkSL9HclTLA9X8sWdsz2eDoHMMF35+JARgVmaeIyYJRZ9QHA+eoSirPwlqsQt+8EXsBuLA/IGctH3VkSplk5PeDy21s6wxeiRA4l8MPAu2aKTlR2pEL5lkI/8c1PLLEO0EvADQJ3pDSX9MRHJVlhg1uA9QkAWtfut9k4I/Ua2jk8RputoRnaP+074XnTa3Ed4BafoGKSc/foqv8itX9Bi3qCzlnKpRP0ZlC8fp3GNh7upAtNrPtEkAjBOIWZ+dHMeXmuRSkaQw37MH7I71AAlaglBtYRmA9VU6f6nf9pXnAO9/gS4YVLVqCFBdcygC56GxSniQH1UJgfGcV6P4Ik8y9rABCgwHFSU+w9PymYbBakWkTL/1KhNnvJoHZvohndu+nvkWYcbXqt5AYQYJMdY9bNenZVPJGlkaT8jSV/oUpk6J63um5pL2mhLdFKY53IltXArlCSCIaaP/9oJ4z8eln9jBRF9rD5jwGb+iSd0zwlVSCUSnC7SP6mEIRZG/aAutgv0DTrlc2/t54UeHmVxW0bUUeSin4sqvmC290Vkp1LDeX04LlRPkU7P0Zkm9B50IMo6WYjgIB5w0rL708vO95Jq//E4mAVzhBmBwVZY02w== thulsadoom@QUADCORE-2015-11-15" 
+        },
+        {
+           "nombre" : "Marina",
+           "apellidos" : "Nievas Rodríguez",
+           "correo" : "marnierod@gmail.com",
+           "usuario" : "marina.nievas",
+           "clave": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKj0QfvtadGCFgBsUczCuC7HY4mbnM/jnlUfLANUVtuUpvOgZTK7nrhQVVvSpOIVIWg9XGyaDquWJZlp/Fs1SXi/1VNlw/Wph/8CMWJM5JA5+hvEEXx7ci34MX14762XA7kqzzNceBsW94ipV9XqJ4IctfOQPmQGXCNoDoWsjAVVUOxwBxazUSHhClLXutqbkNdWUVZ5eWbOL4XZe6K8wrHr9PZZJAl1ad7tb+n3D9KWdzk8DH90dM36B5yXCy7YuhqiqV2sFbRV1L4nTNXm/f8Lcp1maQSF7yvLW3knjLGtXlT4if2ynuHbKo1lejvNhkz+yANSdHRx+4NHaXj/Xx marina@debian" 
+        },
+        {
+            "nombre" : "José María",
+            "apellidos" : "Castillo Cotán",
+            "correo" : "joseccotan10@gmail.com",
+            "usuario" : "josemaria.castillo",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFUr+s7D87fk912vt1WrKNdMwHjCq85MtfeYD+J4vdmr+Jpq1JS+g7Wj8Vo98wD0+KQ+5CqBL1mORGYySiDdAiz7L7gr7vN+t92913FiKBzScLBkFuYMUd9Hl3aPMpS5P6xVPOy+L9r1YR5ji5uRW10Brx9YTbQaPOZiSLRhmv263DlhTinfEIjQNAEcORdDI1PYndLyBNRjoAjCSF6eNZ5fWnYHXy8TQRqLKICiJT0w+afh3UgMPhDqT0JvvdaGyrFvfjfj7kz3t3Hwpce8XH2P8CG0BtXHDymd8P82BTLr18PEjBRqmiuSJ9H+VHh0GMOhuspvqZhxzwgpdI0iLz josemaria@debian" 
+        },
+        {
+           "nombre" : "David",
+           "apellidos" : "García Gómez",
+           "correo" : "david6arcia91@gmail.com",
+           "usuario" : "david.garcia",
+           "clave": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCwkru5kze9mSaQlC4It8CO3IN6k+W2IlylV26U5CYES14Yr/T7Uq7zmlG0KTcMtRKvZHLC3TJ0SwJMYm6n3gpYIQen1PWRjHgmaCS3KBEl2fQft5IujCZB3dj3aaQiW67/iudF8uq0ouFD40xQmAr5ytmLz1D94X7enWBR/lUNKDYUeG/Aqk8uSrUTceAR0DfFfl5fxhlxu+L0q9tfdfKd7G7A+HlDsp+0QwrhhWR51AFqvjTUMJC2jvZ+Rf4OWF/AQTWr/Y53wwJJ4vYg7t7tKxF8DBbHusz+eW8o4M7qzh2LXyFmDWk9ff60VaRygZrmIsWS+nbUZsyaIasLVH5R david@debian" 
+        },
+        {
+            "nombre" : "Alejandro",
+            "apellidos" : "Palomino García",
+            "correo" : "a.palominogarcia@hotmail.com",
+            "usuario" : "alejandro.palomino",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6uYrPa3bjDcDxP2hBgis72ALoq2UxuG5p4at/8V+AcSvAry9bcfm04BOf0/57DKLy4Aonz564w5EEHrDm3CbCgJ5iCzqo54rEk4DKRn8jmvsR+7p0DRULBuJIEUdRm5jmVbT6xdSqDZoQ4KWzgAaEMEe3sEEEUqZ19L5LksFTUuOP4vWcZjqGhCJuhYVkuNx3HAfwno4ZnzBXSW6WyjdNH9n9h5UDyTSiFnUvnPOaIyPuEIRN7mwtFJjdWeSo7L/XcSAOVN6OIk9+CF2Uzjt6gS3YpWgbrPfZU6yM8cfiWeg/u/cyzF92UojfK68gysM2UAslrZFn44iepbDJ4bsj alex@alex" 
+        },
+        {
+            "nombre" : "Elizabeth",
+            "apellidos" : "Moreno Begines",
+            "correo" : "elizabeth.morbeg@gmail.com",
+            "usuario" : "elizabeth.moreno",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDpejU6wBCpafyaA/ERqWYX4q5hfT3BrvaAsMrHbtSB84T4iEeGExAy3NqfmETi1IBrq9RBAB6Oe72jbMgkQ9cxC6CBMyNtS23T8ZntLdkyJ3MHcgl4f/Uqa+AqRI6J81nmJS1SeUO3t7PoO/lyZi7Xy8xzaIdB0t9MxVhU1IbktB7QOVSmvkrpzM86aGVQiUAp9j6s15Jq1c3Ijg+4oj5ABWr0HH4kVg3TNHuAuCn3YgRGghpcMVfkVjZg0oqBsCKfLjr/DvF3ePXr61Oi8m6xkcIGD0VjvXGNrDMA2pUHTqqXXavTeTWA5bzikMDIeEYNCoLWRyswWiFNZ92fSvj zizabe@elizabeth" 
+        },
+        {
+            "nombre" : "Adrián",
+            "apellidos" : "Domínguez Jiménez",
+            "correo" : "adrian731gg@gmail.com",
+            "usuario" : "adrian.dominguez",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC5VWF8V4v96YMuoaMqlXWXNQ7XUXNyB6HFoda5vai7GDp26cqZdabdUktBFV8s+LuiN4rWRwE+wzIg54W7RMVRrxFwrFTrrju2G1PRpKxCLMGHze3wL8+YHDTkzYZiOtqW1BuLc/eEXl/fDgET+2E6zPSrYpKfQGNMTyg5Ci7pSmbbQehNaAW1/7TFLWIZMDOFRqbuDGE/KjJF6RNCsng0fL5tdCTAxez8Y9wYg2kA9JrAtCXut4BBdffKrEHjFeIIPjeLpeMzGiWafLrtC7EDRBQAozzS/ND8XuwSpJwIJCeE0fQFd/zBgVkTPxSdL3mEnReifuT6PPJOb8jVdPuloJNDvaCtZFskClWzLOrIjQetsW8g2/I3UHDivacTM0uolmB11KD9VgGvZp+8kc4V6v1rP8w0C/NsyLFkuTAIeYahbE+wkcF7xXnhJCVzrhK7S2a02uOtVlCrzAgHDJahs6xdh76Yqta9Ijw/cQEg9FgjoBm6ms6i1RenYiK4wEEHCKsKS+BhzIuSYtHWLl3zcUDaLOQRiQ5crCDgX2dA2jzdA7AUUbtVI4GyJPQQwylsZZyhDkhQSuDrbFVANUd+8N594ufukWsNJbZsAT29+vPHk96dZ/4sKFOQjpmFFlvgOlJDVkH4gpm5wa379x/lHoHwZ+1YDnF43bfT0j8FIQ== adrian731gg@gmail.com" 
+        },
+        {
+            "nombre" : "Alberto",
+            "apellidos" : "Andrades Gil",
+            "correo" : "alberto.andrades.gil@gmail.com",
+            "usuario" : "alberto.andrades",
+            "clave" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDkuOHKS1eB+HTOkbqYGhl6kCed/rtaYSsK+qVFELHNbElmMkFz+DH7mQ1XX3C/3jsWDMPImUHTfl/lcsUl/gBWoOyLlHVTO/zF35PK2SB2IZwqlc+eOpXn5jp7fdQsOVV1FIcmtGWM1mWXaQHAEXLgtYeZTgyEvuto9NBQbNNY+sNqOb1bH033G6YkpFS8Yb99QCV3IR8IUtdoTe5ZAIhV5teYJLEV1HKzhwJShXAjnQyPLern2gtf1ufcHWvJGioaCZYFaV34QV61zNzAz9KigkvsiU6vyH/MlSVrUMINVBuOWdWiqhCWzzcyShidcKWTFmIQKLHQFP+5weFd29Fh alberto@debian-aa" 
+        }
+        ],
+
+    "computers" : [
+
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.135",
+            "clave" : "AAAAB3NzaC1yc2EAAAADAQABAAABAQD0wju23O6N9vzVc8HdC3xWsP4ZVBDtifaUWwazqo03u171AyQ2OLE2e4xckvI8mqfWW+sqP8zmV2xTGXV2CxVBiJGKhRzW8iysWciSiaWRQj9boy+5UWBJ8WtlkJ2KPvJngyxwfWjvAQtmM2HdmxpZbxl6teSnHAYvjpOJDALaCf43xLOOArGndoo8e0QMACjO88DvY7QiIiLrQ0zSwPbxK2O4je45YjuIBZLd1SPydGHHqyoFjkiG2SLPc9AOntyxnntoCYl9ZDbU1RQEZXHVaW9jJLadQNkwpFITi6XBasmSlQiPpv6lztARNZTEn/f7CN6osND/fk+q5pyp1QKX" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.76",
+            "clave" : "AAAAB3NzaC1yc2EAAAADAQABAAABAQDMQBHN7f2EsKBmuW2TqYJXV/McgY5UVT0oZWKj6DTR1p9ncZ2zvpDM9nmXyOpa6DlLai1XAKOODTfrcRcwpuuUuMsZgUEAN29zT7L0/FWxuKi3WvF6H77SKh+O6KFg2Dj1WRsTdn8JQoVf2w2gMDq7ki0JzZG1eiHDBPAtzRtKMvuhX+LNSkmK+EBr0ujuM2AcJ9VeYyYHFVjV3CmmBYQSwndn4piB9MXWbRQjuBElqZIDkwXSRr4zCz+6z4IrWqwQuzikudEvvOxYgXujthF9mWc1+T47H0y2UXC0YeUe/UibZ45IocdA4HV/RfxPrY2NiGpJjsi1433HqczPwYjp" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.121", 
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMiNYBKwKLoG5DSvrgxUiDiRKoL5nvUa6cLAO1jlAo+zkw/VT+mPC1kGylnI9vVCFvuChaYlEqdOOj0srIzkvrg=" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.72",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKwH62ifppX3vPDbJ/5vhH8O2fnRYDcaFNwleVu9pnfRiJjLyBukwNjsmte6DdDNDFksYpdHqtoGapNxbAStny0=" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.99", 
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBNP9mZBBRcO89szDdnsQAKR4SMZkMf36wVY7Xahm5bhnI+236Ty2gPc8uHPvCEsife8iEPuq4B/NB0oIJfDOftU=" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.130",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBF0MA+wx/h1UyDnlKRSLsfaFzVM+8jL7/pFg3po/Sp7L6qnwX7JlliHMLJpMA0k61u8YpIbbh5+hF1ilaRMN8k0= root@barney" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.116",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIvhiwtK2GFOchPKVkN10pDznOiRqq/FJning2/KO3rnUON1Z9W1NzzVBtX7oGerxaCMz1m8RSuh9mLlI7PQ+qU=" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.137",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE6oAKo3jlgFXR5CLy1/4rmCf00d1OcIIxsROQHc5iu5ZTcyiYLM70EebyyIkLc6zNa2SGclbc7I99m+mO2WfHM= root@barney" 
+        },
+        {
+            "hostname" : "barney.alcocer.gonzalonazareno.org",
+            "ipv4" : "172.22.200.62",
+            "clave" : "172.22.200.62 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBzxUKXzuSZ6unleHeoNwhbC76kqbnisHhViuYD2nB1oHVIdin0LF0cY21KJvVfDb7YpM2aiFVOswKg6Gn5Hnos=" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.63",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHQU3DmFm1nhaQpx0yoo3uN8ckABbyWbiyko510HqOuIWChHLV13qwzdhPiHjWG1XZBojEREJ39woPXlKOQ+sOw=" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.123",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBNbm7uDjTXDM0I2H3bB2HmDk4EKxh4X/92Dm6gvseWFKK9tzRe2bt+eHv0wOIYcBuRaIxUin76AbpLtCt6DS+08= root@barney" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.97",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBAIAlIA57+7WrZYPswpjDbEjM/qaujCJTAYvVCczQjVUO5RrWdc0xFjprju+T17K6fvfYANKDyAROGMYT+3TXFM=" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.98",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFzOz16VB153QNzr5vUvh+zSW2D06nbIWEpSGk1n2+tdGpu5X8KnY70HUnEDgcjcN1DGz4FDd9Rj01hKUiAPtdo= root@barney" 
+        },
+        {
+            "hostname" : "barney",
+            "ipv4" : "172.22.200.81",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBB87Aj0a533mm4OdZMzxfo+f0HqOR6uCNdgHZiy6O2muSj3f9VerUrfZcvdLC3SBKFCGIMFJkbHtQvRyoI1RPY=" 
+        },
+
+        {
+            "hostname" : "barney.arodriguez.gonzalonazareno.org",
+            "ipv4" : "172.22.200.82",
+            "clave" : "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJ75Zf9OvGlcCK8W0/nkIC4mD724ynMSFZdYEmPnCbsVnnatVRLDcup4AzB0ZjETyPBNbyeVc0y0rxvtHMR8uH8=" 
+        }        ]
+}
+
