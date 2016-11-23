@@ -47,9 +47,12 @@ for i in datos["personas"]:
 	dic['homeDirectory'] = '/home/%s' % str(i['usuario'])
 	dic['loginShell'] = '/bin/bash'
 	ldif = modlist.addModlist(dic)
-	conexion_ldap.add_s(dn,ldif)
-	uidNumber = uidNumber + 1
-	contador = contador + 1
+	try:
+		conexion_ldap.add_s(dn,ldif)
+		uidNumber = uidNumber + 1
+		contador = contador + 1
+	except:
+		print "El usuario %s ya existe" % str(i["usuario"])
 
 for i in datos["computers"]:
 	dn="uid=%s,ou=Computers,dc=apalominogarcia,dc=gonzalonazareno,dc=org" % str(i["ipv4"])
@@ -59,8 +62,11 @@ for i in datos["computers"]:
 	dic1['ipHostNumber'] = str(i["ipv4"])
 	dic1['sshPublicKey'] = str(i["clave"])
 	ldif = modlist.addModlist(dic1)
-	conexion_ldap.add_s(dn,ldif)
-	contador2 = contador2 + 1
+	try:
+		conexion_ldap.add_s(dn,ldif)
+		contador2 = contador2 + 1
+	except:
+		print "El ordenador cuya IP es %s ya existe" % str(i["ipv4"])
 
 print "%s usuarios insertados correctamente." % (contador)
 print "%s ordenadores insertados correctamente." % (contador2)
