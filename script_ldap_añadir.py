@@ -52,7 +52,7 @@ for i in datos["personas"]:
 		uidNumber = uidNumber + 1
 		contador = contador + 1
 	except:
-		print "El usuario %s ya existe" % str(i["usuario"])
+		print "El usuario %s ya existe." % str(i["usuario"])
 
 for i in datos["computers"]:
 	dn="uid=%s,ou=Computers,dc=apalominogarcia,dc=gonzalonazareno,dc=org" % str(i["ipv4"])
@@ -66,7 +66,7 @@ for i in datos["computers"]:
 		conexion_ldap.add_s(dn,ldif)
 		contador2 = contador2 + 1
 	except:
-		print "El ordenador cuya IP es %s ya existe" % str(i["ipv4"])
+		print "El ordenador cuya IP es %s ya existe." % str(i["ipv4"])
 
 print "%s usuarios insertados correctamente." % (contador)
 print "%s ordenadores insertados correctamente." % (contador2)
